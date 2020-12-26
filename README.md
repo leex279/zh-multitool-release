@@ -6,10 +6,12 @@
 - Instant kill ZeroHour-Application (useful for stucked map-tranfsfers, ...)
 
 #### Screenshot UI
-![alt text](https://github.com/leex279/zh-multitool-release/blob/main/res/thumb.png)
+![sceenshot-ui](https://github.com/leex279/zh-multitool-release/blob/main/res/thumb.png)
 
 ### Demo Video (youtube)
-https://www.youtube.com/watch?v=Aw-o7RYYTPI
+[![youtube-video](https://github.com/leex279/zh-multitool-release/blob/main/res/thumb-youtube.png)](https://www.youtube.com/watch?v=Aw-o7RYYTPI)
+
+
 
 
 
