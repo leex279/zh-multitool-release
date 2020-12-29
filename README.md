@@ -12,6 +12,11 @@
 ### Demo Video (youtube)
 [![youtube-video](https://github.com/leex279/zh-multitool-release/blob/main/res/thumb-video.png)](https://www.youtube.com/watch?v=2JEKOlRzbQs)
 
+### Installation
+Just download the "Zero Hour - Multitool <version>.zip" from the file list above, extract it and execute the setup.exe
+
+
+
 
 
 
