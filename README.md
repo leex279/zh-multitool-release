@@ -17,6 +17,8 @@ Just download the "Zero Hour - Multitool <version>.zip" from the file list above
 
 ### Hints/Limitations
 - Cashbounty not working / causing problems if you installed other mods
+- Map.ini-Maps in the Mapsets 
+	-> Switch mapset before you start the game!
 
 
 
