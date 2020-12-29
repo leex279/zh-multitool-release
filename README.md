@@ -15,6 +15,8 @@
 ### Installation
 Just download the "Zero Hour - Multitool <version>.zip" from the file list above, extract it and execute the setup.exe
 
+### Hints/Limitation
+- Cashbounty not working / causing problems if you installed other mods
 
 
 
